@@ -4,22 +4,6 @@ I’m Tatiana, a software developer fueled by curiosity and a drive to create me
 
 ---
 
-## 🌟 Featured Projects
-
-### [Inspiration Board](https://github.com/Nerpassevera/front-end-inspiration-board)  
-Collaboratively developed app for managing inspiration boards with intuitive UI and real-time notifications.  
-**Tech Stack**: React, Flask, PostgreSQL  
-
-### [Nice Bank](https://github.com/Nerpassevera/nice-bank)  
-Full-stack banking application for account management, transaction history, and secure user authentication.  
-**Tech Stack**: React, Express.js, MongoDB  
-
-### [Task List Application](https://github.com/Nerpassevera/task-list-front-end)  
-A dynamic full-stack task management app with seamless task tracking, real-time updates, and Slack integration.  
-**Tech Stack**: React, Flask, PostgreSQL, Docker  
-
----
-
 ## 📚 Currently Learning
 
 I am currently a student at **Ada Developers Academy (Cohort 22)** and will soon begin my internship. I’m excited to apply my knowledge and grow further in the field of software development.
@@ -38,5 +22,4 @@ Feel free to explore my repositories and reach out for collaboration or a quick 
 </p>
 <!-- Trophy widgets -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerpassevera&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Repositories,Commits,PullRequest,Experience&theme=discord" alt="nerpassevera" /></a> </p>
-
 
