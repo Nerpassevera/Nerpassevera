@@ -21,5 +21,5 @@ Feel free to explore my repositories and reach out for collaboration or a quick 
 <a href="https://www.leetcode.com/nerpa_s_severa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nerpa_s_severa" height="30" width="40" /></a>
 </p>
 <!-- Trophy widgets -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerpassevera&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Repositories,Commits,PullRequest,Experience&theme=discord" alt="nerpassevera" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerpassevera&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Repositories,Commits,PullRequest,Experience&theme=discord" alt="nerpassevera" /></a> </p> -->
 
