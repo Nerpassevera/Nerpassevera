@@ -1,6 +1,6 @@
-# Hi there, I'm Tatiana Trofimova! 👋  
+# Hi there, I'm Tatiana! 👋  
 
-I’m Tatiana, a software developer fueled by curiosity and a drive to create meaningful solutions. My focus lies in backend development, API design, and making everything fit seamlessly with the frontend. Whether it’s building robust systems or learning something new, I enjoy diving into challenges that push my skills forward.
+I'm a software developer fueled by curiosity and a drive to create meaningful solutions. My focus lies in backend development, API design, and making everything fit seamlessly with the frontend. Whether it’s building robust systems or learning something new, I enjoy diving into challenges that push my skills forward.
 
 ---
 
